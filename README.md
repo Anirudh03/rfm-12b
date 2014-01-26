@@ -6,6 +6,10 @@ Based on the RFM12 driver from jeelabs.com (2009-02-09 <jc@wippler.nl>)
 <br/>
 http://opensource.org/licenses/mit-license.php
 
+Modified by boredman@BoredomProjects.net to support Arduino DUE
+<br/>
+for more info see blog: http://boredomprojects.net/index.php/projects/home-energy-monitor
+
 ###Features:
 - easy API with a few simple functions for basic usage
 - 127 possible nodes on 256 possible networks
