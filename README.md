@@ -26,7 +26,7 @@ Support for these chips: ATMega8 family (ATmega168, ATMega328) ATMega2560, ATMeg
 - the library needed for wireless programming is now [here](https://github.com/LowPowerLab/WirelessProgramming), install it in your Arduino/libraries folder (WirelessHEX for RFM12B)
 
 ###Installation
-Copy the content of this library in the "Arduino/libraries/RFM12B" folder.
+Copy the content of this library in the "Arduino/libraries/RFM12B_Due" folder.
 <br />
 To find your Arduino folder go to File>Preferences in the Arduino IDE.
 <br/>
