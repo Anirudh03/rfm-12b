@@ -32,6 +32,11 @@ To find your Arduino folder go to File>Preferences in the Arduino IDE.
 <br/>
 See [this tutorial](http://learn.adafruit.com/arduino-tips-tricks-and-techniques/arduino-libraries) on Arduino libraries.
 
+If using TortoiseGit, start Git Clone command with these parameters:
+  URL: https://github.com/icboredman/RFM12B
+  Directory: \Arduino\libraries\RFM12B_Due
+  Branch: [checked] arduino_due
+
 ###Saple usage
 - [Sender](https://github.com/LowPowerLab/RFM12B/blob/master/Examples/Send/Send.ino)
 - [Receiver](https://github.com/LowPowerLab/RFM12B/blob/master/Examples/Receive/Receive.ino)
